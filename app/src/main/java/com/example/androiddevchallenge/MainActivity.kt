@@ -211,7 +211,7 @@ val meditateTextArray = arrayListOf(
     "Breathe in.",
     "Breathe out.",
     "You are important.",
-    "You are validated.",
+    "You are valid.",
     "Breathe in.",
     "Breathe out.",
     "You are loved.",
